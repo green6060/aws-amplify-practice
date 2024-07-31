@@ -1,8 +1,12 @@
-# React + Vite
+# AWS Practice App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app serves as a demonstration of various AWS Technologies, and is deployed using AWS Amplify.
 
-Currently, two official plugins are available:
+The current production state of the app can be viewed at: 
+https://main.dp4l9dub9clf6.amplifyapp.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the progress of the app, as various features are added, by commit history.
+
+Currently, this app demonstrates the following AWS features:
+
+- Amplify
